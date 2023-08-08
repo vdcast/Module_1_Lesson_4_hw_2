@@ -10,4 +10,6 @@ Classes, objects, constructors.
 3. The calculator can be turned on or off. Make an on/off method.
 4. Do not allow counting in the off state.
 
+**Result:**
+
 ![image](https://github.com/vdcast/Module_1_Lesson_4_hw_2/assets/108469609/ab76d1ad-ffc1-44cd-abdd-c76077cbc4a1)
