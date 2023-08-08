@@ -3,7 +3,7 @@
 
 Classes, objects, constructors.
 
-**Technical task:**
+**Task:**
 
 1. Write a Calculator class. It must be able to add, subtract, multiply and divide whole numbers.
 2. If the output is a non-integer number (for example, 5 / 2 = 2.5). Think about how to handle this situation.
